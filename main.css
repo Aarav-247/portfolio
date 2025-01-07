@@ -67,7 +67,7 @@ nav a:hover{
     padding: 40px;
     background-color: #1c1c1c;
     border-radius: 12px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 8px rgba(255, 151, 151, 0.3);
 }
 section {
 margin-bottom: 30px;
