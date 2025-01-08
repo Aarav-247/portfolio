@@ -29,7 +29,7 @@ nav a{
 }
 nav a:hover{
     text-decoration: underline;
-    background-color: rgb(145, 134, 185);
+    background-color: #121212
 }
 h1{
     font-size: 3.5em;
