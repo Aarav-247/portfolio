@@ -57,7 +57,7 @@ footer{
 #mail{
     color: rgb(137, 118, 206);
 }
-p{
+p, ul{
     font-size: 1.2em;
     line-height: 1.6;
 }
