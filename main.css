@@ -44,7 +44,7 @@ h2{
     margin: 40px auto;
     overflow: hidden;
     padding: 40px;
-    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.458);
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.300);
 }
 footer{
     background-color: #333;
