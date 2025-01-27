@@ -1,0 +1,70 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #121212;
+    color: #eeee;
+    margin: 0px;
+}
+h1{
+    font-size: 2.5em;
+    background-color: #2d2c2c;
+    margin: 0px;
+    padding: 0.7em;
+}
+ul{
+    text-align: center;
+    background-color: rgb(39, 38, 38);
+    border-radius: 30px;
+    overflow: hidden;
+    transition: transform 0.5s ease;
+    margin: 0px;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.300);
+}
+ul:hover{
+    transform: translateY(-10px);
+}
+footer{
+    background-color: #333;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+nav{
+    background-color: #333;
+    padding: 15px;
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+nav a{
+    text-decoration: none;
+    color: #ffffff;
+    margin: 0 20px;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 30px;
+    background-color: #555;
+    
+}
+nav a:hover{
+    background-color: #121212;
+}
+.box{
+    background-color: rgb(39, 38, 38);
+    border-radius:  12px;
+    width: 80%;
+    margin: 40px auto;
+    overflow: hidden;
+    padding: 40px;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.400);
+    transition: transform 0.5s ease;
+}
+.box:hover{
+    transform: translateY(-10px);
+}
+#mail{
+    color: rgb(137, 118, 206);
+}
